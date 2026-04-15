@@ -3,7 +3,7 @@
 This project is a Java-based web application integrated with a Python Flask microservice.
 It demonstrates how different technologies can work together in a modern distributed system.
 
-The application simulates a real-world architecture where:
+The application simulates a real world architecture where:
 
 A Java backend communicates with
 A Python Flask API via REST calls
