@@ -1,6 +1,6 @@
 # Java Web Application with Flask Integration
 
-This project is a **Java-based web application integrated with a Python Flask microservice.
+This project is a Java-based web application integrated with a Python Flask microservice.
 It demonstrates how different technologies can work together in a modern distributed system.
 
 The application simulates a real-world architecture where:
